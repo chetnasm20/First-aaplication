@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93378090506",
+    "project_id": "careercounselling23-434df",
+    "storage_bucket": "careercounselling23-434df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93378090506:android:27cb692b8830e3e957b1f3",
+        "android_client_info": {
+          "package_name": "com.example.careercounselling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93378090506-81mfk1rfo8nqug3qu3gojhs67sabs91i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOUSd5Hij05vWzv5bMUeNHV4THe9_YA2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93378090506-81mfk1rfo8nqug3qu3gojhs67sabs91i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
